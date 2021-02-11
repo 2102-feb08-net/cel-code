@@ -1,0 +1,16 @@
+C:\revature\cel-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.exe
+C:\revature\cel-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.deps.json
+C:\revature\cel-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.runtimeconfig.json
+C:\revature\cel-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.runtimeconfig.dev.json
+C:\revature\cel-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.dll
+C:\revature\cel-code\branches-tutorial\bin\Debug\net5.0\ref\BranchesAndLoops.dll
+C:\revature\cel-code\branches-tutorial\bin\Debug\net5.0\BranchesAndLoops.pdb
+C:\revature\cel-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.csprojAssemblyReference.cache
+C:\revature\cel-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\cel-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\revature\cel-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.AssemblyInfo.cs
+C:\revature\cel-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\revature\cel-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.dll
+C:\revature\cel-code\branches-tutorial\obj\Debug\net5.0\ref\BranchesAndLoops.dll
+C:\revature\cel-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.pdb
+C:\revature\cel-code\branches-tutorial\obj\Debug\net5.0\BranchesAndLoops.genruntimeconfig.cache

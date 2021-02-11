@@ -1,0 +1,16 @@
+C:\revature\cel-code\numbers-quickstart\bin\Debug\net5.0\NumbersInCSharp.exe
+C:\revature\cel-code\numbers-quickstart\bin\Debug\net5.0\NumbersInCSharp.deps.json
+C:\revature\cel-code\numbers-quickstart\bin\Debug\net5.0\NumbersInCSharp.runtimeconfig.json
+C:\revature\cel-code\numbers-quickstart\bin\Debug\net5.0\NumbersInCSharp.runtimeconfig.dev.json
+C:\revature\cel-code\numbers-quickstart\bin\Debug\net5.0\NumbersInCSharp.dll
+C:\revature\cel-code\numbers-quickstart\bin\Debug\net5.0\ref\NumbersInCSharp.dll
+C:\revature\cel-code\numbers-quickstart\bin\Debug\net5.0\NumbersInCSharp.pdb
+C:\revature\cel-code\numbers-quickstart\obj\Debug\net5.0\NumbersInCSharp.csprojAssemblyReference.cache
+C:\revature\cel-code\numbers-quickstart\obj\Debug\net5.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\cel-code\numbers-quickstart\obj\Debug\net5.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\revature\cel-code\numbers-quickstart\obj\Debug\net5.0\NumbersInCSharp.AssemblyInfo.cs
+C:\revature\cel-code\numbers-quickstart\obj\Debug\net5.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\revature\cel-code\numbers-quickstart\obj\Debug\net5.0\NumbersInCSharp.dll
+C:\revature\cel-code\numbers-quickstart\obj\Debug\net5.0\ref\NumbersInCSharp.dll
+C:\revature\cel-code\numbers-quickstart\obj\Debug\net5.0\NumbersInCSharp.pdb
+C:\revature\cel-code\numbers-quickstart\obj\Debug\net5.0\NumbersInCSharp.genruntimeconfig.cache

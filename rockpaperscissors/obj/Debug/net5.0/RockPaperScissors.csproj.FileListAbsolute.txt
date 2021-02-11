@@ -1,0 +1,16 @@
+C:\revature\cel-code\rockpaperscissors\obj\Debug\net5.0\RockPaperScissors.csprojAssemblyReference.cache
+C:\revature\cel-code\rockpaperscissors\obj\Debug\net5.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\cel-code\rockpaperscissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\revature\cel-code\rockpaperscissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfo.cs
+C:\revature\cel-code\rockpaperscissors\obj\Debug\net5.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\revature\cel-code\rockpaperscissors\bin\Debug\net5.0\RockPaperScissors.exe
+C:\revature\cel-code\rockpaperscissors\bin\Debug\net5.0\RockPaperScissors.deps.json
+C:\revature\cel-code\rockpaperscissors\bin\Debug\net5.0\RockPaperScissors.runtimeconfig.json
+C:\revature\cel-code\rockpaperscissors\bin\Debug\net5.0\RockPaperScissors.runtimeconfig.dev.json
+C:\revature\cel-code\rockpaperscissors\bin\Debug\net5.0\RockPaperScissors.dll
+C:\revature\cel-code\rockpaperscissors\bin\Debug\net5.0\ref\RockPaperScissors.dll
+C:\revature\cel-code\rockpaperscissors\bin\Debug\net5.0\RockPaperScissors.pdb
+C:\revature\cel-code\rockpaperscissors\obj\Debug\net5.0\RockPaperScissors.dll
+C:\revature\cel-code\rockpaperscissors\obj\Debug\net5.0\ref\RockPaperScissors.dll
+C:\revature\cel-code\rockpaperscissors\obj\Debug\net5.0\RockPaperScissors.pdb
+C:\revature\cel-code\rockpaperscissors\obj\Debug\net5.0\RockPaperScissors.genruntimeconfig.cache
