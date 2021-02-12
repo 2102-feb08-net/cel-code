@@ -1,0 +1,16 @@
+C:\revature\cel-code\classes\bin\Debug\net5.0\classes.exe
+C:\revature\cel-code\classes\bin\Debug\net5.0\classes.deps.json
+C:\revature\cel-code\classes\bin\Debug\net5.0\classes.runtimeconfig.json
+C:\revature\cel-code\classes\bin\Debug\net5.0\classes.runtimeconfig.dev.json
+C:\revature\cel-code\classes\bin\Debug\net5.0\classes.dll
+C:\revature\cel-code\classes\bin\Debug\net5.0\ref\classes.dll
+C:\revature\cel-code\classes\bin\Debug\net5.0\classes.pdb
+C:\revature\cel-code\classes\obj\Debug\net5.0\classes.csprojAssemblyReference.cache
+C:\revature\cel-code\classes\obj\Debug\net5.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\cel-code\classes\obj\Debug\net5.0\classes.AssemblyInfoInputs.cache
+C:\revature\cel-code\classes\obj\Debug\net5.0\classes.AssemblyInfo.cs
+C:\revature\cel-code\classes\obj\Debug\net5.0\classes.csproj.CoreCompileInputs.cache
+C:\revature\cel-code\classes\obj\Debug\net5.0\classes.dll
+C:\revature\cel-code\classes\obj\Debug\net5.0\ref\classes.dll
+C:\revature\cel-code\classes\obj\Debug\net5.0\classes.pdb
+C:\revature\cel-code\classes\obj\Debug\net5.0\classes.genruntimeconfig.cache
