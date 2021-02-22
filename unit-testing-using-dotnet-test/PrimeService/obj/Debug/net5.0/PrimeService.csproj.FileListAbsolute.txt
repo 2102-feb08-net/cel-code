@@ -2,6 +2,7 @@ C:\revature\cel-code\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.
 C:\revature\cel-code\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\PrimeService.dll
 C:\revature\cel-code\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\ref\PrimeService.dll
 C:\revature\cel-code\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net5.0\PrimeService.pdb
+C:\revature\cel-code\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.csprojAssemblyReference.cache
 C:\revature\cel-code\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
 C:\revature\cel-code\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfoInputs.cache
 C:\revature\cel-code\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net5.0\PrimeService.AssemblyInfo.cs
